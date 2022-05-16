@@ -1,0 +1,37 @@
+{
+  "question": [
+    "Q1. What color is opposite to yellow",
+    "Q2. What color is opposite to red",
+    "Q3. What are the primary colors?",
+    "Q4. What is your favourite color?"
+  ],
+  "answer": [
+    4,
+    2,
+    3,
+    4
+  ],
+  "options": [
+
+    ["Yellow is not a color",
+      "Green",
+      "Pink",
+      "Purple"
+    ],
+    ["Blue",
+      "Green",
+      "Orange",
+      "Light green"
+    ],
+    ["Red, Yellow, Green",
+      "Orange, Red, Purple",
+      "Yellow, Blue, Red",
+      "Green, Orange, Purple"
+    ],
+    ["Black",
+      "Blue",
+      "Red",
+      "Grey"
+    ]
+  ]
+}

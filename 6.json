@@ -1,0 +1,37 @@
+{
+  "question": [
+    "Q1. What is the better team?",
+    "Q2. Who is the best player ever?",
+    "Q3. Who will win the Cup Next year?",
+    "Q4. What is the definition of a poverty franchise?"
+  ],
+  "answer": [
+    2,
+    1,
+    2,
+    3
+  ],
+  "options": [
+
+    ["Toronto",
+      "Arizona",
+      "Edmonton",
+      "LA"
+    ],
+    ["Wayne Gretzky",
+      "Bobby Orr",
+      "McDavid",
+      "Auston Matthews"
+    ],
+    ["Vancouver",
+      "Toronto",
+      "Florida",
+      "EDM"
+    ],
+    ["Buffalo",
+      "Arizona",
+      "EDM",
+      "Montreal"
+    ]
+  ]
+}

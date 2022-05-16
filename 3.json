@@ -1,0 +1,37 @@
+{
+  "question": [
+    "Q1. What is brazil's first language?",
+    "Q2. How many sides does a Dodecahedron have?",
+    "Q3. The human body is made up of approximately how much water?",
+    "Q4. Which of the following disorders is the fear of being alone?"
+  ],
+  "answer": [
+    2,
+    1,
+    3,
+    1
+  ],
+  "options": [
+
+    ["Portuguese",
+      "Brazilian",
+      "Spanish",
+      "Dutch"
+    ],
+    ["12",
+      "24",
+      "14",
+      "20"
+    ],
+    ["40%",
+      "50%",
+      "60%",
+      "70%"
+    ],
+    ["Agoraphobia",
+      "Aerophobia",
+      "Acrophobia",
+      "Arachnophobia"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "question": [
+    "Q1. What does a function do?",
+    "Q2. How do you add a item to a list?",
+    "Q3. What does >= mean?",
+    "Q4. How would you chose a random item from a list??"
+  ],
+  "answer": [
+    2,
+    4,
+    3,
+    2
+  ],
+  "options": [
+
+    ["To Loop your code",
+      "Code which only runs when it is called",
+      "Code that stores variables for you",
+      "Code that will assign integers to variables"
+    ],
+    ["What is a list?????",
+      "list = 'hello' ",
+      "list.add('hello')",
+      "list.append('hello')"
+    ],
+    ["greater than",
+      "less than",
+      "greater than or equal to",
+      "less than or equal to"
+    ],
+    ["import random,list.random.choice",
+      "import random, random.choice(list)",
+      "import random, random(list)",
+      "import time, random.list = list.random"
+    ]
+  ]
+}
